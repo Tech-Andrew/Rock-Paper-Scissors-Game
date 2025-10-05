@@ -4,6 +4,7 @@ A Mediapipe-powered real-time computer vision game with a modern 16:9 Tkinter GU
 🎮 Rock Paper Scissors (Gesture Edition)
 A camera-powered Rock–Paper–Scissors–Pencil game built with Python, MediaPipe, OpenCV, and Tkinter.
 The game recognizes your hand gestures in real-time and lets you play against the computer inside a sleek 16:9 GUI window.
+
 **✋ Features**
 
 _🧠 Gesture Recognition_ — Detects your hand and classifies gestures as Rock, Paper, Scissors, or Pencil using MediaPipe landmarks.
@@ -41,10 +42,10 @@ pip install opencv-python mediapipe pillow
 
 (Tkinter is included with most Python installations.)
 
-🚀 Run It
+**🚀 Run It**
 python gesture_rps.py
 
-🧩 Tech Stack
+**🧩 Tech Stack**
 
 OpenCV – For camera handling and frame processing
 
@@ -54,7 +55,7 @@ Tkinter + ttk – For building the interactive GUI
 
 PIL (Pillow) – For converting frames to displayable images
 
-🧠 Game Logic
+**🧠 Game Logic**
 
 The game supports four moves:
 
@@ -68,4 +69,4 @@ Ties are counted separately.
 
 🧑‍💻 Author
 
-Built with ❤️ by [Your Name] — combining computer vision, game logic, and Python UI design into one playful experience.
+Built with ❤️ by Tech-Andrew — combining computer vision, game logic, and Python UI design into one playful experience.
