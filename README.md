@@ -43,7 +43,7 @@ pip install opencv-python mediapipe pillow
 (Tkinter is included with most Python installations.)
 
 **🚀 Run It**
-python gesture_rps.py
+python main.py
 
 **🧩 Tech Stack**
 
